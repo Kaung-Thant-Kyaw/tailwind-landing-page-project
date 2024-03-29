@@ -4,7 +4,7 @@ This project is coded using Tailwind CSS.
 
 ![Alt text](/img/screen.png?raw=true)
 
-[Link Text][(http://example.com](https://kaung-thant-kyaw.github.io/tailwind-landing-page-project/))
+[Live Site URL:][(http://example.com](https://kaung-thant-kyaw.github.io/tailwind-landing-page-project/))
 
 
 # Usage
